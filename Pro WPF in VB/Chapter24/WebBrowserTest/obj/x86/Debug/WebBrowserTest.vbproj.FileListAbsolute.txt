@@ -1,0 +1,2 @@
+D:\Code\Pro WPF in VB\Chapter24\WebBrowserTest\obj\x86\Debug\WebBrowserTest.vbproj.ResolveComReference.cache
+D:\Code\Pro WPF in VB\Chapter24\WebBrowserTest\bin\Debug\WebBrowserTest.exe.config

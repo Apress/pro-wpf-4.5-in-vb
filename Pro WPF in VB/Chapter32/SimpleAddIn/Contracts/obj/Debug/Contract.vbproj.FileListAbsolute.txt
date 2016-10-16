@@ -1,0 +1,4 @@
+D:\Code\Pro WPF in VB\Chapter32\SimpleAddIn\Output\Contracts\Contract.dll
+D:\Code\Pro WPF in VB\Chapter32\SimpleAddIn\Output\Contracts\Contract.pdb
+D:\Code\Pro WPF in VB\Chapter32\SimpleAddIn\Contracts\obj\Debug\Contract.dll
+D:\Code\Pro WPF in VB\Chapter32\SimpleAddIn\Contracts\obj\Debug\Contract.pdb

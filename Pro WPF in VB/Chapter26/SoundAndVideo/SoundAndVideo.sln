@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SoundAndVideo", "SoundAndVideo.vbproj", "{AA4F60D2-43BB-4597-B80C-7786BDAC9F8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA4F60D2-43BB-4597-B80C-7786BDAC9F8A}.Debug|x86.ActiveCfg = Debug|x86
+		{AA4F60D2-43BB-4597-B80C-7786BDAC9F8A}.Debug|x86.Build.0 = Debug|x86
+		{AA4F60D2-43BB-4597-B80C-7786BDAC9F8A}.Release|x86.ActiveCfg = Release|x86
+		{AA4F60D2-43BB-4597-B80C-7786BDAC9F8A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+D:\Code\Pro WPF in VB\Chapter32\SimpleAddIn\Output\AddIns\FadeImageAddIn\FadeImageAddIn.dll
+D:\Code\Pro WPF in VB\Chapter32\SimpleAddIn\Output\AddIns\FadeImageAddIn\FadeImageAddIn.pdb
+D:\Code\Pro WPF in VB\Chapter32\SimpleAddIn\FadeImageAddIn\obj\Debug\FadeImageAddIn.vbprojResolveAssemblyReference.cache
+D:\Code\Pro WPF in VB\Chapter32\SimpleAddIn\FadeImageAddIn\obj\Debug\FadeImageAddIn.dll
+D:\Code\Pro WPF in VB\Chapter32\SimpleAddIn\FadeImageAddIn\obj\Debug\FadeImageAddIn.pdb

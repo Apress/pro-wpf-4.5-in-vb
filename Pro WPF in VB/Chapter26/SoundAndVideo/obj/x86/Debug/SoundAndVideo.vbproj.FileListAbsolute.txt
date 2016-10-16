@@ -1,0 +1,1 @@
+D:\Code\Pro WPF in VB\Chapter26\SoundAndVideo\bin\Debug\SoundAndVideo.exe.config

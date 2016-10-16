@@ -1,0 +1,5 @@
+D:\Code\Pro WPF in VB\Chapter32\SimpleAddIn\Output\AddIns\NegativeImageAddIn\NegativeImageAddIn.dll
+D:\Code\Pro WPF in VB\Chapter32\SimpleAddIn\Output\AddIns\NegativeImageAddIn\NegativeImageAddIn.pdb
+D:\Code\Pro WPF in VB\Chapter32\SimpleAddIn\NegativeImageAddIn\obj\Debug\NegativeImageAddIn.vbprojResolveAssemblyReference.cache
+D:\Code\Pro WPF in VB\Chapter32\SimpleAddIn\NegativeImageAddIn\obj\Debug\NegativeImageAddIn.dll
+D:\Code\Pro WPF in VB\Chapter32\SimpleAddIn\NegativeImageAddIn\obj\Debug\NegativeImageAddIn.pdb

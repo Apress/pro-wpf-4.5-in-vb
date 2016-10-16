@@ -1,0 +1,4 @@
+D:\Code\Pro WPF in VB\Chapter32\SimpleAddIn\Output\AddInViews\AddInView.dll
+D:\Code\Pro WPF in VB\Chapter32\SimpleAddIn\Output\AddInViews\AddInView.pdb
+D:\Code\Pro WPF in VB\Chapter32\SimpleAddIn\AddInView\obj\Debug\AddInView.dll
+D:\Code\Pro WPF in VB\Chapter32\SimpleAddIn\AddInView\obj\Debug\AddInView.pdb

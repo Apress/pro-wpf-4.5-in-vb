@@ -1,0 +1,5 @@
+D:\Code\Pro WPF in VB\Chapter32\SimpleAddIn\Output\HostSideAdapters\HostSideAdapter.dll
+D:\Code\Pro WPF in VB\Chapter32\SimpleAddIn\Output\HostSideAdapters\HostSideAdapter.pdb
+D:\Code\Pro WPF in VB\Chapter32\SimpleAddIn\HostSideAdapter\obj\Debug\HostSideAdapter.vbprojResolveAssemblyReference.cache
+D:\Code\Pro WPF in VB\Chapter32\SimpleAddIn\HostSideAdapter\obj\Debug\HostSideAdapter.dll
+D:\Code\Pro WPF in VB\Chapter32\SimpleAddIn\HostSideAdapter\obj\Debug\HostSideAdapter.pdb

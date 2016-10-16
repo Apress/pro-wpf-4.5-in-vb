@@ -1,0 +1,1 @@
+D:\Code\Pro WPF in VB\Chapter11\Behaviors\bin\Debug\Behaviors.exe.config

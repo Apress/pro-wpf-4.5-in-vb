@@ -1,0 +1,5 @@
+D:\Code\Pro WPF in VB\StoreDatabaseDbBased\bin\Debug\StoreDatabase.dll.config
+D:\Code\Pro WPF in VB\StoreDatabaseDbBased\bin\Debug\StoreDatabase.dll
+D:\Code\Pro WPF in VB\StoreDatabaseDbBased\bin\Debug\StoreDatabase.pdb
+D:\Code\Pro WPF in VB\StoreDatabaseDbBased\obj\Debug\StoreDatabase.dll
+D:\Code\Pro WPF in VB\StoreDatabaseDbBased\obj\Debug\StoreDatabase.pdb
